@@ -195,8 +195,9 @@ Ensures smooth and responsive UI.
 
 ## 👨‍💻 Author
 
-Vivek Patil  
-MCA Student
+Vivek Patil
+Tarang Acharya
+Jinal Varu  
 
 ---
 
