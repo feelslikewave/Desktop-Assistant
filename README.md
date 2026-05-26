@@ -195,8 +195,8 @@ Ensures smooth and responsive UI.
 
 ## 👨‍💻 Author
 
-Vivek Patil
-Tarang Acharya
+Vivek Patil,
+Tarang Acharya,
 Jinal Varu  
 
 ---
